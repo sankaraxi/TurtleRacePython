@@ -2,7 +2,7 @@ import turtle
 import time
 WIDTH, HEIGHT = 500, 500
 
-
+#initializes a graphical user interface with turtle racers
 def get_number_of_racers():
     racers = 0
     while True:
